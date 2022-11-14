@@ -1,1 +1,1 @@
-# Roshambo-Odin-Project
+# [Rock Paper Scissor] The-Odin-Project
