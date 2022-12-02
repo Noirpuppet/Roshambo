@@ -35,7 +35,6 @@ scissorbtn.addEventListener('click', () =>{
 });
 
 const content = document.createElement('div');
-content.classList.add('content');
 content.textContent = '-------------------------------'
 
 container.appendChild(content);
